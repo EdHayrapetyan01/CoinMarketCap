@@ -2,7 +2,7 @@
   Varys Capital
 
   <br>
-  <img src="https://images.pexels.com/photos/843700/pexels-photo-843700.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="logo" title="logo" width="300">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/800px-Bitcoin.svg.png" alt="logo" title="logo" width="300">
   <br>
 </h1>
 
