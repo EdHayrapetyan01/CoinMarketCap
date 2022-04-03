@@ -1,0 +1,22 @@
+.crypto-container {
+  background: linear-gradient(#24128a, #35125e);
+  height: 100vh;
+}
+.crypto-table {
+  width: 66%;
+  margin-bottom: 1rem;
+  background-color: transparent;
+  margin: 0 auto;
+  padding-top: 45px;
+}
+.table tbody + tbody:hover {
+  opacity: 0.5;
+  background-color: white;
+  color: black;
+  cursor: pointer;
+  transition: 0.5s;
+}
+.loading {
+  color: white;
+  text-align: center;
+}
