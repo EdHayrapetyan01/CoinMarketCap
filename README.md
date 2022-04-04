@@ -1,5 +1,4 @@
 <h1 align="center">
-  Varys Capital
 
   <br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/800px-Bitcoin.svg.png" alt="logo" title="logo" width="300">
@@ -13,7 +12,7 @@
 
 ## Project Title
 
-Coin test app
+Coin app
 
 ## Table of Contents
 
